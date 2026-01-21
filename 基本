@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>数学の理想郷</title>
+ <link rel="stylesheet" href="css.css">
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
+</head>
+<body>
+<main>
+<h1>Mathematics Utopia</h1>
+<p style="size: 9px; padding: 0 10px">順番に意味はありません。<a href="index.html">トップページに戻る</a></p>
+<table border="1">
+<tr>
+ <th style="width: 10%;">分野</th>
+ <th style="width: 34%">内容</th>
+ <th style="width: 48%">詳細</th>
+ <th style="width: 8%">最終更新</th>
+</tr>
+<tr>
+ <td>位相空間論</td>
+ <td><a href="連結空間.pdf" target="_blank">連結空間</a></td>
+ <td>連結性の定義、性質。\( \mathbb{R} \)の部分集合が連結であることと区間であることの同値性。</td>
+ <td>2023/2/21</td>
+</tr>
+<tr>
+ <td>位相空間論</td>
+ <td><a href="点列の収束(位相空間論).pdf" target="_blank">点列の収束</a></td>
+ <td>点列の収束の定義と性質。改良予定。</td>
+ <td>2023/2/27</td>
+</tr>
+<tr>
+ <td>位相空間論</td>
+ <td><a href="連続写像.pdf" target="_blank">連続写像</a></td>
+ <td>連続性の諸々の同値な定義。点列の収束との関係。</td>
+ <td>2023/9/20</td>
+</tr>
+<tr>
+ <td>位相空間論</td>
+ <td><a href="コンパクト空間.pdf" target="_blank">コンパクト空間</a></td>
+ <td>コンパクト性の定義、性質。</td>
+ <td>2023/3/27</td>
+</tr>
+<tr>
+ <td>位相空間論</td>
+ <td><a href="商空間.pdf" target="_blank">誘導位相・商位相</a></td>
+ <td>誘導位相、商位相、商写像の定義、性質。</td>
+ <td>2025/12/28</td>
+</tr>
+<tr>
+ <td>位相空間論</td>
+ <td><a href="完備距離空間.pdf" target="_blank">完備距離空間</a></td>
+ <td>コーシー列、完備距離空間の定義、性質。</td>
+ <td>2023/9/25</td>
+</tr>
+<tr>
+ <td>位相空間論</td>
+ <td>距離空間の完備化</td>
+ <td>完備化の存在と一意性の証明。</td>
+ <td>追加予定</td>
+</tr>
+<tr>
+ <td>位相空間論</td>
+ <td><a href="ハウスドルフ空間と有向点列.pdf" target="_blank">ハウスドルフ空間の有向点列</a></td>
+ <td>ハウスドルフ性と有向点列の極限の一意性。</td>
+ <td>2023/1/24 </td>
+</tr>
+<tr>
+ <td>多様体論</td>
+ <td><a href="実射影空間.pdf" target="_blank">実射影空間</a></td>
+ <td>実射影空間が多様体であることとコンパクト性を証明。</td>
+ <td>2024/3/4</td>
+</tr>
+<tr>
+ <td>多様体論</td>
+ <td>はめ込み・沈め込み</td>
+ <td>逆関数定理から階数一定定理を導き、系としてはめ込み定理や沈め込み定理などを証明。</td>
+ <td>2025/1/6</td>
+</tr>
+<tr>
+ <td>微分幾何学</td>
+ <td>ベクトル束の変換関数</td>
+ <td>ベクトル束を与えることと、コサイクルコンディションを満たす写像の族を与えることの同値性。</td>
+ <td>追加予定</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td>中間値の定理</td>
+ <td>区間縮小法、中間値の定理の証明。</td>
+ <td>2023/2/24</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td>ボルツァーノ・ワイエルシュトラスの定理</td>
+ <td>ボルツァーノ・ワイエルシュトラスの定理の証明。</td>
+ <td>2023/2/25</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td>閉区間上の微分</td>
+ <td>閉区間での微分可能の定義２つの同値性。</td>
+ <td>2023/3/18</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td><a href="平均値の定理.pdf" target="_blank">平均値の定理</a></td>
+ <td>平均値の定理、コーシーの平均値の定理の証明
+ <td>2023/3/12</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td><a href="テイラーの定理.pdf" target="_blank">テイラーの定理</a></td>
+ <td>様々な剰余項のテイラーの定理、多変数のテイラーの定理の証明。</td>
+ <td>2024/3/19</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td><a href="点列コンパクトと有界閉集合.pdf" target="_blank">点列コンパクトと有界閉集合</a></td>
+ <td>\( \mathbb{R}^n \)において、点列コンパクトと有界閉が同値であることの証明。</td>
+ <td>2023/9/7</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td>正項級数の収束判定</td>
+ <td>級数の定義、コーシーの判定法とダランベールの判定法の証明。</td>
+ <td>2023/3/5</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td>絶対収束する級数の積</td>
+ <td>絶対収束する級数の積は絶対収束することの証明。</td>
+ <td>2023/3/13</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td><a href="ワイエルシュトラスのM判定法.pdf" target="_blank">ワイエルシュトラスのM判定法</a></td>
+ <td>一様コーシーと一様収束の同値性、ワイエルシュトラスのMテストの証明。</td>
+ <td>2023/10/9</td>
+</tr>
+<tr>
+ <td>微積分</td>
+ <td><a href="逆関数定理.pdf" target="_blank">逆関数定理</a></td>
+ <td>逆関数定理の証明。改良の余地あり。</td>
+ <td>2023/12/27</td>
+</tr>
+<tr>
+ <td>代数学</td>
+ <td>ラグランジュの定理</td>
+ <td>剰余類の定義、ラグランジュの定理の証明。</td>
+ <td>2023/2/2</td>
+</tr>
+<tr>
+ <td>代数学</td>
+ <td>フェルマーの小定理</td>
+ <td>フェルマーの小定理の証明。</td>
+ <td>2023/2/3</td>
+</tr>
+<tr>
+ <td>代数学</td>
+ <td>(群)準同型定理</td>
+ <td>準同型写像や正規部分群の定義と性質。</td>
+ <td>2023/5/19</td>
+</tr>
+</table>
+
+</main>
+<footer> &copy; 2021-2026　</footer>
+</body>
+</html>
