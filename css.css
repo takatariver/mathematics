@@ -1,0 +1,94 @@
+h1 {font-size: 50px;}
+h2 {font-size: 40px;}
+h3 {font-size: 30px;}
+h4 {font-size: 20px}
+
+html, body {
+margin: 0;
+padding:0;
+height: 100%;
+background: lightskyblue;
+display: flex;
+flex-direction: column;
+}
+
+main {
+flex: 1; 
+background-color: lightskyblue;
+padding: 20px;
+}
+
+footer {
+background: ghostwhite;
+width: 100%;
+padding: 10px 20px;
+box-sizing: border-box;
+}
+
+table {
+width: 100%;
+border-collapse: collapse;
+}
+
+th, td {
+border: 1px solid black;    
+text-align: left;
+padding: 3px 5px 3px 5px; <!-- 上右下左 -->
+ }
+  
+.btn {
+  padding: 12px 36px;
+  margin-right: 16px;
+  font-size: 16px;
+  background: mediumspringgreen;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;}
+  
+.btn:hover {
+  background: seagreen;}
+
+.main-cont {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: lightskyblue;
+  padding: 20px;
+  flex: 1;
+}
+
+.year {
+font-size: 20px;
+font-weight: bold;
+margin-top: 20px;
+}
+
+.yearsec {
+border-bottom: 2px solid black;
+padding-bottom: 10px
+}
+
+.up {
+margin: 5px 0 20px 10px;
+padding: 0;
+list-style-type: none;
+}
+
+.btn-area {
+margin-bottom: 36px;
+}
+
+.top {
+max-width: 760px;
+margin: 0 auto;
+}
+
+.description {
+font-size: 19px;
+line-height: 1.9;
+margin-bottom: 36px;
+}
+
+.update {
+font-size: 18px;
+}
