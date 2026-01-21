@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>数学の理想郷</title>
+ <link rel="stylesheet" href="css.css">
+</head>
+
+<body>
+<main>
+ <h1>Mathematics Utopia</h1>
+ <p class="description">
+数学に関する勉強記録や自分用の備忘録を載せているサイトです。「基礎」のページに載せていることは文字通り基本的なことばかりで、かつ証明は冗長なくらい丁寧に、行間がないように書いているつもりです。「専門」のページは自分の勉強したことの自分用のまとめです。
+</p>
+
+<div class="btn-area">
+<button class="btn" onclick="location.href='kihon.html'">基礎</button>
+<button class="btn" onclick="location.href='senmon.html'">専門</button>
+</div>
+
+<section class="update">
+ <p><a href="更新情報.html" style="color: black; text-decoration: none;">更新情報</a>：2025/12/28　<a href="商空間.pdf" target="_blank">誘導位相・商位相</a> 
+</section>
+
+</main>
+<footer> &copy; 2021-2026　</footer>
+</body>
+</html>
